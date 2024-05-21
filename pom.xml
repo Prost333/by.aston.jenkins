@@ -19,7 +19,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>target/servle</finalName>
+        <finalName>servlet</finalName>
     </build>
 
     <properties>
