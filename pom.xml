@@ -19,7 +19,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>servlet</finalName>
+        <finalName>${project.build.directory}</finalName>
     </build>
 
     <properties>
