@@ -16,6 +16,6 @@ public class HWServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        resp.getWriter().write("Hello123 World");
+        resp.getWriter().write("Hello World");
     }
 }
